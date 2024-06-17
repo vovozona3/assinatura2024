@@ -1,0 +1,39 @@
+header {
+    background-image:linear-gradient(to top, #f1c549, #c7b40d);
+    margin: 90;
+    padding: 90;
+    display:block;
+    justify-content: space-around;
+    padding: 54px;
+    color:#f1c549;
+}
+
+.titulo{
+    font-size: 80px;
+    text-align: center;
+    color:#f1c549
+    font-size italic;
+}
+
+.escola {
+    margin-left: 300px;
+    margin-top: 300px;
+    margin-right: 300px;
+    height: 550px;
+    font-size:  70px;
+    text-align: center;
+    font-style: italic;
+    background-image: linear-gradient( top #dbc712, #dbd807)
+}
+body{
+    background-color:#dbd807;
+}
+
+.arroz-titulo{
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 200px;
+    height: 550px;
+    font-size: 70px;
+    text-align: center;
+    font: ;
